@@ -1,6 +1,6 @@
 --index-url https://pypi.python.org/simple/
 
-Django==1.6.8
+Django==2.2.24
 
 -e git://github.com/jedie/django-reversion-compare@ce4558ab700707d70401b89c824016e2e2584952#egg=django_reversion_compare-dev
 
