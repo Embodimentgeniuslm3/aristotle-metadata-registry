@@ -9,7 +9,7 @@ Django==1.6.8
 #Some stuff fails on Django 1.7
 django-autocomplete-light==2.0.0a18
 
-Pillow==2.4.0
+Pillow==9.3.0
 #PyPDF2==1.22
 argparse==1.2.1
 html5lib==1.0b3
